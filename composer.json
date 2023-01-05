@@ -1,0 +1,15 @@
+{
+    "name": "donat/phpoopexam",
+    "autoload": {
+        "psr-4": {
+            "Donat\\Phpoopexam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Donatas",
+            "email": "donatas.gutauskas@codeacademylt.onmicrosoft.com"
+        }
+    ],
+    "require": {}
+}
